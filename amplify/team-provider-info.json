@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "firstawsreactapp5049bda8": {}
+      },
+      "api": {
+        "firstawsreactapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
